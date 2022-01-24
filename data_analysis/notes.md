@@ -2,7 +2,7 @@
 
 ## Pandas
 
-![](./images/panda.jpg)
+![](../images/panda.jpg)
 
 Pandas is a tool that almost every data scientist uses. It allows for easier exploration, alteration and visualisation of data, in table format. We usually import pandas with the abbrevation pd. 
 
@@ -15,7 +15,7 @@ Series are one dimensional objects that allow storing information.
 
 Data frames are two dimensional objects which combine multiple series together.
 
-![](./images/pandas-anatomy-of-a-dataframe.png)
+![](../images/pandas-anatomy-of-a-dataframe.png)
 
 ## Numpy
 
@@ -28,14 +28,14 @@ the optimisations that Numpy has based on vectorisation via broadcasting.
 
 1. Ndarray - an n dimensional array ( think of it as a tensor )
 
-![](./images/numpy_arrays.png)
+![](../images/numpy_arrays.png)
 
 ## Matplotlib
 
 One of the most used visualisation tools in Python. It can be used in both the data analysis section
 of the ML pipeline, or the Evaluation section at the end. 
 
-![](./images/matplotlib-anatomy-of-a-plot.png)
+![](../images/matplotlib-anatomy-of-a-plot.png)
 
 ### Some of the most useful types
 

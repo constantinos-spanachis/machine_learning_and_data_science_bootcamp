@@ -19,7 +19,7 @@ Steps we are going to cover in this course:
 It is important to build a framework when ti comes to ML, since it allows you to revisit
 whenever you have a new project. This framework will be split into 6 steps:
 
-![ML Framework](./images/1_Gf0bWgr2wst9A1XR5gakLg.png)
+![ML Framework](../images/1_Gf0bWgr2wst9A1XR5gakLg.png)
 
 ### 1. Problem Definition
 It is always important to define what problem you are trying to solve and figure out in which 
@@ -177,5 +177,5 @@ project easier.
 
 Check the cheat sheets:
 
-![](./images/conda_cheatsheet1024_1.jpg)
-![](./images/conda_cheatsheet1024_2.jpg)
+![](../images/conda_cheatsheet1024_1.jpg)
+![](../images/conda_cheatsheet1024_2.jpg)
